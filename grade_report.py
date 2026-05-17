@@ -12,7 +12,7 @@ Inputs:
 Processes:
 - Collect  data into a list of dictionaries
 - Accumulator: divide total score by number of students for average
-- Min/Max: find the highest scoring student and lowest scoring student
+- Min/Max: find the highest scoring student 
 - Filter: students with scores 93 or above are "A" students and count
 
 Outputs:
